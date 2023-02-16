@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Collections } from "../components";
+import { Collections } from "../../components";
 import { Products } from "../../constans/collections";
 const Bottoms = () => {
   const [bottoms, setBottoms] = useState([]);

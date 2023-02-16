@@ -1,6 +1,6 @@
 import "@/styles/globals.css";
 import { Space_Mono } from "@next/font/google";
-import Layout from "./components/Layout";
+import Layout from "../components/Layout";
 const mono = Space_Mono({
   weight: "400",
   subsets: ["latin"],

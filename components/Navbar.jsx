@@ -2,7 +2,7 @@ import Link from "next/link";
 import { useRouter } from "next/router";
 
 import { useEffect, useState } from "react";
-import { Links } from "../../constans/Link";
+import { Links } from "../constans/Link";
 import { HiShoppingCart, HiOutlineViewList } from "react-icons/hi";
 
 export const Navbar = () => {

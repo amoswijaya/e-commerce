@@ -1,4 +1,4 @@
-import { Hero, About, Collections } from "./components";
+import { Hero, About, Collections } from "../components";
 import { Products } from "../constans/collections";
 export default function Home() {
   return (
